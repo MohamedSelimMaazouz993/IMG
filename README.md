@@ -1,10 +1,5 @@
 # IMG-App
 
-## Requirements :
-
-### Before viewing " Phone Operator App" you need to login 
-
-### Username & Password : slim
 
 ## Prerequisites:
 
